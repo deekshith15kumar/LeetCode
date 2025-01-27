@@ -13,6 +13,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/deekshith15kumar/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/deekshith15kumar/LeetCode/tree/master/0009-palindrome-number) |
 ## String
 |  |
@@ -25,10 +26,12 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/deekshith15kumar/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/deekshith15kumar/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/deekshith15kumar/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/deekshith15kumar/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 ## Two Pointers
 |  |
