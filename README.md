@@ -30,6 +30,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/deekshith15kumar/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/deekshith15kumar/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/deekshith15kumar/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/deekshith15kumar/LeetCode/tree/master/0027-remove-element) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/deekshith15kumar/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Backtracking
 |  |
 | ------- |
