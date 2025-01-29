@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/deekshith15kumar/LeetCode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/deekshith15kumar/LeetCode/tree/master/0027-remove-element) |
+| [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/deekshith15kumar/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
