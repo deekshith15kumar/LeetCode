@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/deekshith15kumar/LeetCode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/deekshith15kumar/LeetCode/tree/master/0027-remove-element) |
+| [0051-n-queens](https://github.com/deekshith15kumar/LeetCode/tree/master/0051-n-queens) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/deekshith15kumar/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 ## Hash Table
 |  |
@@ -46,4 +47,5 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/deekshith15kumar/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0051-n-queens](https://github.com/deekshith15kumar/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
