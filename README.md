@@ -48,4 +48,8 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/deekshith15kumar/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0051-n-queens](https://github.com/deekshith15kumar/LeetCode/tree/master/0051-n-queens) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/deekshith15kumar/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
